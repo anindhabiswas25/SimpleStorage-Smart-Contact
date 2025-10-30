@@ -2,6 +2,10 @@
 
 A foundational, simple smart contract built with Solidity for the Ethereum blockchain. This contract is primarily intended for educational purposes, demonstrating the most basic functionality of a smart contract: storing and retrieving data on the blockchain.
 
+<img width="2790" height="1544" alt="1" src="https://github.com/user-attachments/assets/e5122b1c-8614-4055-9314-d8d1dfaa2adc" />
+
+## Check the successfully deployed smart contract - https://celo.blockscout.com/address/0x969Dea14d26512bfC0DB495763a44774fdA6cb16?tab=index
+
 ## Description
 
 The `SimpleStorage` contract allows any user to:
